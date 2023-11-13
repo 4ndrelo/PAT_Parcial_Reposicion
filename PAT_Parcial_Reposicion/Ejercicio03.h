@@ -8,3 +8,5 @@ public:
 	Node<int>* detectCycle(Node<int>* head);
 };
 
+
+
